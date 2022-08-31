@@ -1,14 +1,14 @@
 *{
 	font-family: Consolas,monaco,monospace;
 
-      color: white;
+      color: #FFF;
       position: relative;
       z-index: 100;
       margin-left: 0px;
       margin-right: 0px;
       margin-top: 0px;
       margin-bottom: 0px;
-      background: black;
+      background: #000;
 
 }
 
